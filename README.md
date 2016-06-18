@@ -18,4 +18,5 @@ profileB:
 ```
 
 # The output format
-The result of the parsing of the properties file is a ```Map<String, Map<String, String>>```. The example of the previous section produces the following output: ```{profileA={protocol=http, secure=true}, profileB={protocol=ftp, secure=fasle}}``` 
+The result of the parsing of the properties file is a ```Map<String, Map<String, String>>```. The example of the previous section produces the following output: 
+```{profileA={protocol=http, secure=true}, profileB={protocol=ftp, secure=fasle}}``` 
